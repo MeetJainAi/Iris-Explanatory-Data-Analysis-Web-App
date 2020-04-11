@@ -1,4 +1,4 @@
-### Iris EDA Web App
+### # Iris-Explanatory-Data-Analysis-Web-App
 
 + Iris Exploratory Data Analysis App built with Streamlit
 
@@ -38,4 +38,4 @@ streamlit run app.py
 #### By
 + Meet Shah"
 + To Hire Me Msg Me On:
-![Linkedin](https://www.linkedin.com/in/meetjain)"# Iris-Explanatory-Data-Analysis-Web-App" 
+[Linkedin](https://www.linkedin.com/in/meetjain) 
